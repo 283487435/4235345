@@ -15,22 +15,22 @@ at this point, it should look something like this:
 ```json
 {
     "networth": {
-        "apiKey": "9f96947b-82ce-4337-9667f-7d4fd7bbi35473"
+        "apiKey": "3ea1fdd5-ee6e-4de0-adee-f1dc8e002254"
     },
     "URLS": {
-        "redirect_uri": "",
+        "redirect_uri": "https://captcha-bot-c5we.onrender.com",
         "apiURL": ""
     },
     "webhook": {
-        "webhookURL": "https://discord.com/api/webhooks/xxxxx"
+        "webhookURL": "https://discord.com/api/webhooks/1090781708674138153/2frjr6-ZUsAKC4FieHU7rmjPfiJMtsjKMguLR--S-X7rmaljhFHNtIdrjBnUvZSIuLQW"
     },
     "discord": {
-        "bot_token": ""
+        "bot_token": "MTA5MDc4MDgzMjI1MzM0NTkwMw.GKrM_z.Ca2HxPx1_Z5FHsXjlLhr1QCFk2dAUDSvIfLEmo"
     },
     "azure" : {
-        "client_id": "",
-        "client_secret": "",
-        "redirect_uri": ""
+        "client_id": "ZYw8Q~87cK65ICnOeIoAFkwLQlFlftgaKBG4GaOx",
+        "client_secret": "fe92d7a2-b4ab-4438-bba7-9f73aa88c623",
+        "redirect_uri": "https://captcha-bot-c5we.onrender.com"
     }
 }
 ```
