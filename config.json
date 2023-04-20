@@ -1,6 +1,6 @@
 {
     "networth": {
-        "apiKey": "4136293b-5b9b-4ca5-a818-be2a0bddf89e"
+        "apiKey": "3ea1fdd5-ee6e-4de0-adee-f1dc8e002254"
     },
 
     "URLS": {
@@ -12,12 +12,12 @@
     },
 
     "discord": {
-        "bot_token": "corAoUk6q_YFnXz6vRqtlxN5puGqrANw"
+        "bot_token": "MTA5MDc4MDgzMjI1MzM0NTkwMw.GKrM_z.Ca2HxPx1_Z5FHsXjlLhr1QCFk2dAUDSvIfLEmo"
     },
 
     "azure" : {
-        "client_id": "e7892e15-3bf7-4750-88bf-03137037c002",
-        "client_secret": "nKd8Q~ZtGuPGIY.1AStvXdB-aFI.VXe2qha_va9O",
-        "redirect_uri": ""
+        "client_id": "ZYw8Q~87cK65ICnOeIoAFkwLQlFlftgaKBG4GaOx",
+        "client_secret": "fe92d7a2-b4ab-4438-bba7-9f73aa88c623",
+        "redirect_uri": "https://captcha-bot-c5we.onrender.com"
     }
 }
